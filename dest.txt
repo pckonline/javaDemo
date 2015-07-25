@@ -1,0 +1,3 @@
+/home/online/文档/javaDemo/abc/adf.txt
+/home/online/文档/javaDemo/abc/faf/asdfw/sadf.txt
+/home/online/文档/javaDemo/abc/faf/saf.txt

@@ -1,0 +1,6 @@
+#s 
+#Sat Jan 24 12:58:44 CST 2015
+zhangsan=30
+lisi=32
+wangwu=16
+zhaoliu=31
